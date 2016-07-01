@@ -13,20 +13,19 @@
         // the entry point for all C# programs. The Main method states what the class does when executed.
         static void Main(string[] args)
         {
-            
-            #region part1 - Very short presentation, Hello World, class structure
+           // #region part1 - Very short presentation, Hello World, class structure
 
-            Console.WriteLine("Part 1: \n");
+//            Console.WriteLine("Part 1: \n");
 
             // my first program in C# 
 
             // WriteLine is a method of the Console class defined in the System namespace. This statement causes the message "Hello, World!" to be displayed on the screen.
-            Console.WriteLine("Hello World ");
+  //          Console.WriteLine("Hello World ");
 
             // This makes the program wait for a key press and it prevents the screen from running and closing quickly when the program is launched from Visual Studio.
-            Console.ReadKey();
+    //        Console.ReadKey();
 
-            #endregion
+      //      #endregion
 
 
             #region part2 - class, namespace, dynamic type, static methodes, convertions, constant, readonly, struct, generics, enums
